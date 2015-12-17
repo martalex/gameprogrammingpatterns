@@ -1,6 +1,6 @@
 # Summary
 
 * [Предисловие](README.md)
-* [First Chapter](chapter1.md)
 * [Введение](introduction.md)
+* [First Chapter](chapter1.md)
 
