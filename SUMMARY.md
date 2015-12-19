@@ -2,7 +2,7 @@
 
 * [I. Introduction](README.md)
 * [1. Архитектура, производительность и игры](1.1.architecture-performance-and-games.md)
-* [Команда (Command)](2.1.command.md)
+* [2. Команда (Command)](2.1.command.md)
 * Приспособленец (Flyweight)
 * Наблюдатель (Observer)
 * Прототип (Protorype)
