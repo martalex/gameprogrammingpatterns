@@ -13,7 +13,7 @@
 * [III. Последовательные шаблоны (Sequencing Patterns)](chapter-3/3-sequencing-patterns.md)
    * [8. Двойная буферизация (Double Buffering)](chapter-3/3.1-double-buffering.md)
    * [9. Игровой цикл (Game Loop)](3.2-3.2-game-loop.md)
-   * Методы обновления (Update Methods)
+   * [10. Методы обновления (Update Methods)](3.3-update-methods.md)
 * Байткод (Bytecode)
 * Подкласс песочница (Subclass Sandbox)
 * Объект тип (Type Object)
