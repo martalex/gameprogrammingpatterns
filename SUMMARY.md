@@ -2,7 +2,7 @@
 
 * [Аннотация](README.md)
 * [Введение](chapter-1/1-introduction.md)
-   * [Фксршеусегку](chapter-1/1.1-architecture-performance-and-games.md)
+   * [1. Архитектура, производительность и игры](chapter-1/1.1-architecture-performance-and-games.md)
 * [2. Команда (Command)](chapter-2/2.1-command.md)
 * Приспособленец (Flyweight)
 * Наблюдатель (Observer)
