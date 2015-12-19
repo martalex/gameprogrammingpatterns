@@ -23,7 +23,7 @@
    * [15. Очередь событий (Event Queue)](chapter-5/5.2-event-queue.md)
    * [16. Поиск службы (Service Locator)](chapter-5/5.3-service-locator.md)
 *  [VI. Шаблоны оптимизации(Optimization Patterns)](chapter-6/6-optimization-patterns.md)
-   * Локальность данных (Data Locality)
+   * [17. Локальность данных (Data Locality)](chapter-6/6.1-data-locality.md)
    * Грязный флаг (Dirty Flag)
    * Пул объектов (Object Pool)
    * Пространственное разбиение(Spatial Partition)
