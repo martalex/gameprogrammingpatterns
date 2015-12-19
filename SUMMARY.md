@@ -1,6 +1,7 @@
 # Summary
 
 * [Аннотация](README.md)
+* [Введение](chapter-1/1-introduction.md)
 * [2. Команда (Command)](chapter-2/2.1-command.md)
 * Приспособленец (Flyweight)
 * Наблюдатель (Observer)
@@ -20,5 +21,4 @@
 * Грязный флаг (Dirty Flag)
 * Пул объектов (Object Pool)
 * Пространственное разбиение(Spatial Partition)
-* [Введение](chapter-1/1-introduction.md)
 
