@@ -11,7 +11,7 @@
    * [6. Синглтон (Singleton)](2.5-singleton.md)
    * [7. Состояние (State)](2.6-state.md)
 * [III. Последовательные шаблоны (Sequencing Patterns)](chapter-3/3-sequencing-patterns.md)
-   * [Двойная буферизация (Double Buffering)](chapter-3/3.1-double-buffering.md)
+   * [8. Двойная буферизация (Double Buffering)](chapter-3/3.1-double-buffering.md)
    * Игровой цикл (Game Loop)
    * Методы обновления (Update Methods)
 * Байткод (Bytecode)
