@@ -12,7 +12,7 @@
    * [7. Состояние (State)](chapter-2/2.6-state.md)
 * [III. Последовательные шаблоны (Sequencing Patterns)](chapter-3/3-sequencing-patterns.md)
    * [8. Двойная буферизация (Double Buffering)](chapter-3/3.1-double-buffering.md)
-   * [9. Игровой цикл (Game Loop)](chapter-3/3.2-3.2-game-loop.md)
+   * [9. Игровой цикл (Game Loop)](chapter-3/3.2-game-loop.md)
    * [10. Методы обновления (Update Methods)](chapter-3/3.3-update-methods.md)
 * [IV. Поведенческие шаблоны (Behavioral Patterns)](chapter-4/4-behavioral-patterns.md)
    * [11. Байткод (Bytecode)](chapter-4/4.1-bytecode.md)
