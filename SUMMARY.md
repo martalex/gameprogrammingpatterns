@@ -26,5 +26,5 @@
    * [17. Локальность данных (Data Locality)](chapter-6/6.1-data-locality.md)
    * [18. Грязный флаг (Dirty Flag)](chapter-6/6.2-dirty-flag.md)
    * [19. Пул объектов (Object Pool)](chapter-6/6.3-object-pool.md)
-   * Пространственное разбиение(Spatial Partition)
+   * [20. Пространственное разбиение(Spatial Partition)](chapter-6/6.4-spatial-partition.md)
 
