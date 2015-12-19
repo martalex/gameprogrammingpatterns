@@ -24,7 +24,7 @@
    * [16. Поиск службы (Service Locator)](chapter-5/5.3-service-locator.md)
 *  [VI. Шаблоны оптимизации(Optimization Patterns)](chapter-6/6-optimization-patterns.md)
    * [17. Локальность данных (Data Locality)](chapter-6/6.1-data-locality.md)
-   * Грязный флаг (Dirty Flag)
+   * [18. Грязный флаг (Dirty Flag)](chapter-6/6.2-dirty-flag.md)
    * Пул объектов (Object Pool)
    * Пространственное разбиение(Spatial Partition)
 
