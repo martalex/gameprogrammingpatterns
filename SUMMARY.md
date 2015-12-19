@@ -4,6 +4,7 @@
 * [I. Введение](chapter-1/1-introduction.md)
    * [1. Архитектура, производительность и игры](chapter-1/1.1-architecture-performance-and-games.md)
 * [II. Обзор шаблонов проектирования](chapter-2/2-design-patterns-revisited.md)
+   * 2. Команда (Command)
 * [2. Команда (Command)](chapter-2/2.1-command.md)
 * Приспособленец (Flyweight)
 * Наблюдатель (Observer)
