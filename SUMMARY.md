@@ -1,7 +1,7 @@
 # Summary
 
 * [Аннотация](README.md)
-* [2. Команда (Command)](2.1-command.md)
+* [2. Команда (Command)](chapter-2/2.1-command.md)
 * Приспособленец (Flyweight)
 * Наблюдатель (Observer)
 * Прототип (Protorype)
