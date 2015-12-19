@@ -20,7 +20,7 @@
    * [13. Объект тип (Type Object)](chapter-4/4.3-type-object.md)
 * [V. Шаблоны снижения связности (Decoupling Patterns)](chapter-5/5-decoupling-patterns.md)
    * [14. Компонент (Component)](chapter-5/5.1-component.md)
-   * [15. Очередь событий (Event Queue)](chapter-5/)
+   * [15. Очередь событий (Event Queue)](chapter-5/5.2-event-queue.md)
    * [16. Поиск службы (Service Locator)](chapter-5/)
 * Локальность данных (Data Locality)
 * Грязный флаг (Dirty Flag)
