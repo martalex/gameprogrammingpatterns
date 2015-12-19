@@ -1,6 +1,7 @@
 # Summary
 
-* [Предисловие](README.md)
-* [Часть I. Введение](introduction.md)
-* [First Chapter](chapter1.md)
+[Предисловие](README.md)
+
+I.[Часть I. Введение](introduction.md)
+    1. [Архитектура, производительность и игры](1.1.architecture-performance-and-games.md)
 
