@@ -7,7 +7,7 @@
    * [2. Команда (Command)](chapter-2/2.1-command.md)
    * [3. Приспособленец (Flyweight)](chapter-2/2.2-flyweight.md)
    * [4. Наблюдатель (Observer)](chapter-2/2.3-observer.md)
-* Прототип (Protorype)
+   * [5. Прототип (Protorype)](2.5-singleton.md)
 * Синглтон (Singleton)
 * Состояние (State)
 * Двойная буферизация (Double Buffering)
