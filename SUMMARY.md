@@ -9,7 +9,7 @@
    * [4. Наблюдатель (Observer)](chapter-2/2.3-observer.md)
    * [5. Прототип (Protorype)](2.4-prototype.md)
    * [6. Синглтон (Singleton)](2.5-singleton.md)
-* Состояние (State)
+   * [7. Состояние (State)](2.6-state.md)
 * Двойная буферизация (Double Buffering)
 * Игровой цикл (Game Loop)
 * Методы обновления (Update Methods)
