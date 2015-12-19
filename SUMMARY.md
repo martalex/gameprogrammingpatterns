@@ -2,6 +2,7 @@
 
 * [Аннотация](README.md)
 * [Введение](chapter-1/1-introduction.md)
+   * Фксршеусегку
 * [2. Команда (Command)](chapter-2/2.1-command.md)
 * Приспособленец (Flyweight)
 * Наблюдатель (Observer)
