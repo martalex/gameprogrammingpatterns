@@ -21,5 +21,4 @@
 * Грязный флаг (Dirty Flag)
 * Пул объектов (Object Pool)
 * Пространственное разбиение(Spatial Partition)
-* Введение
 
