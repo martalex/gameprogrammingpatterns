@@ -21,7 +21,7 @@
 * [V. Шаблоны снижения связности (Decoupling Patterns)](chapter-5/5-decoupling-patterns.md)
    * [14. Компонент (Component)](chapter-5/5.1-component.md)
    * [15. Очередь событий (Event Queue)](chapter-5/5.2-event-queue.md)
-   * [16. Поиск службы (Service Locator)](chapter-5/)
+   * [16. Поиск службы (Service Locator)](chapter-5/5.3-service-locator.md)
 * Локальность данных (Data Locality)
 * Грязный флаг (Dirty Flag)
 * Пул объектов (Object Pool)
