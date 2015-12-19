@@ -17,7 +17,7 @@
 * [IV. Поведенческие шаблоны (Behavioral Patterns)](chapter-4/4-behavioral-patterns.md)
    * [11. Байткод (Bytecode)](chapter-4/4.1-bytecode.md)
    * [12. Подкласс песочница (Subclass Sandbox)](chapter-4/4.2-subclass-sandbox.md)
-   * Объект тип (Type Object)
+   * [13. Объект тип (Type Object)](chapter-4/4.3-type-object.md)
 * Компонент (Component)
 * Очередь событий (Event Queue)
 * Поиск службы (Service Locator)
