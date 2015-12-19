@@ -1,7 +1,7 @@
 # Summary
 
 * [Аннотация](README.md)
-* [Введение](chapter-1/1-introduction.md)
+* [I. Введение](chapter-1/1-introduction.md)
    * [1. Архитектура, производительность и игры](chapter-1/1.1-architecture-performance-and-games.md)
 * [2. Команда (Command)](chapter-2/2.1-command.md)
 * Приспособленец (Flyweight)
