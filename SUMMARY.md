@@ -25,6 +25,6 @@
 *  [VI. Шаблоны оптимизации(Optimization Patterns)](chapter-6/6-optimization-patterns.md)
    * [17. Локальность данных (Data Locality)](chapter-6/6.1-data-locality.md)
    * [18. Грязный флаг (Dirty Flag)](chapter-6/6.2-dirty-flag.md)
-   * Пул объектов (Object Pool)
+   * [19. Пул объектов (Object Pool)](chapter-6/6.3-object-pool.md)
    * Пространственное разбиение(Spatial Partition)
 
