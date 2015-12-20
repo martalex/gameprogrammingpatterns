@@ -1,5 +1,8 @@
 /* CSS for website */
 
-.comments-section li {
+.comments-section {
+    font-family: Georgia, serif;
+}
+ul > li {
     font-family: Georgia, serif;
 }
