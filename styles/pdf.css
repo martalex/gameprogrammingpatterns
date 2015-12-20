@@ -1,4 +1,7 @@
 /* CSS for pdf */
-body {
+.comments-section {
+    font-family: Georgia, serif;
+}
+ul > li {
     font-family: Georgia, serif;
 }
