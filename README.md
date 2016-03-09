@@ -1,7 +1,9 @@
 # Шаблоны игрового программирования
 
 **Книга в процессе оформления. Прогресс ~96%** 25/26
-Та-дам! Осталось сверстать последнюю главу! Кстати, PDF с обложкой. 
+Та-дам! Осталось сверстать последнюю главу! Кстати, [PDF файл](https://www.gitbook.com/download/pdf/book/martalex/gameprogrammingpatterns) с обложкой. 
+
+[<img src="cover_small.jpg">](https://www.gitbook.com/download/pdf/book/martalex/gameprogrammingpatterns)
 
 Привет, разработчик игр!
 
