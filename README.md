@@ -1,6 +1,6 @@
 # Шаблоны игрового программирования
 
-[<img src="cover_small.jpg">](https://www.gitbook.com/download/pdf/book/martalex/gameprogrammingpatterns)
+[<img src="cover_small.jpg" alt="Шаблоны игрового программирования PDF файл"/>](https://www.gitbook.com/download/pdf/book/martalex/gameprogrammingpatterns)
 
 Приветствую тебя, разработчик игр!
 
